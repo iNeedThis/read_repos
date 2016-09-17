@@ -37,6 +37,6 @@ defmodule ReadRepos.Mixfile do
   end
 
   defp deps do
-    [{:scrivener, "~> 1.0"}]
+    [{:scrivener, "~> 2.0"}]
   end
 end
